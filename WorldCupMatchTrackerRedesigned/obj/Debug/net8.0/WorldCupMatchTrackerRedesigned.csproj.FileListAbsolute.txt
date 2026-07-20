@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\WorldCupMatchTrackerRedesigned\WorldCupMatchTrackerRedesigned\bin\Debug\net8.0\WorldCupMatchTrackerRedesigned.exe
+C:\Users\Jeff\source\repos\WorldCupMatchTrackerRedesigned\WorldCupMatchTrackerRedesigned\bin\Debug\net8.0\WorldCupMatchTrackerRedesigned.deps.json
+C:\Users\Jeff\source\repos\WorldCupMatchTrackerRedesigned\WorldCupMatchTrackerRedesigned\bin\Debug\net8.0\WorldCupMatchTrackerRedesigned.runtimeconfig.json
+C:\Users\Jeff\source\repos\WorldCupMatchTrackerRedesigned\WorldCupMatchTrackerRedesigned\bin\Debug\net8.0\WorldCupMatchTrackerRedesigned.dll
+C:\Users\Jeff\source\repos\WorldCupMatchTrackerRedesigned\WorldCupMatchTrackerRedesigned\bin\Debug\net8.0\WorldCupMatchTrackerRedesigned.pdb
+C:\Users\Jeff\source\repos\WorldCupMatchTrackerRedesigned\WorldCupMatchTrackerRedesigned\obj\Debug\net8.0\WorldCupMatchTrackerRedesigned.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\WorldCupMatchTrackerRedesigned\WorldCupMatchTrackerRedesigned\obj\Debug\net8.0\WorldCupMatchTrackerRedesigned.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\WorldCupMatchTrackerRedesigned\WorldCupMatchTrackerRedesigned\obj\Debug\net8.0\WorldCupMatchTrackerRedesigned.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\WorldCupMatchTrackerRedesigned\WorldCupMatchTrackerRedesigned\obj\Debug\net8.0\WorldCupMatchTrackerRedesigned.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\WorldCupMatchTrackerRedesigned\WorldCupMatchTrackerRedesigned\obj\Debug\net8.0\WorldCupMatchTrackerRedesigned.dll
+C:\Users\Jeff\source\repos\WorldCupMatchTrackerRedesigned\WorldCupMatchTrackerRedesigned\obj\Debug\net8.0\refint\WorldCupMatchTrackerRedesigned.dll
+C:\Users\Jeff\source\repos\WorldCupMatchTrackerRedesigned\WorldCupMatchTrackerRedesigned\obj\Debug\net8.0\WorldCupMatchTrackerRedesigned.pdb
+C:\Users\Jeff\source\repos\WorldCupMatchTrackerRedesigned\WorldCupMatchTrackerRedesigned\obj\Debug\net8.0\WorldCupMatchTrackerRedesigned.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\WorldCupMatchTrackerRedesigned\WorldCupMatchTrackerRedesigned\obj\Debug\net8.0\ref\WorldCupMatchTrackerRedesigned.dll

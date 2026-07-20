@@ -1,0 +1,1032 @@
+[
+  {
+    "Id": 1,
+    "Stage": "Group Stage",
+    "Group": "Group A",
+    "HomeTeam": "Mexico",
+    "AwayTeam": "South Africa",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 2,
+    "Stage": "Group Stage",
+    "Group": "Group A",
+    "HomeTeam": "South Korea",
+    "AwayTeam": "Czechia",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 3,
+    "Stage": "Group Stage",
+    "Group": "Group B",
+    "HomeTeam": "Canada",
+    "AwayTeam": "Bosnia and Herzegovina",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 4,
+    "Stage": "Group Stage",
+    "Group": "Group D",
+    "HomeTeam": "USA",
+    "AwayTeam": "Paraguay",
+    "HomeScore": 4,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 5,
+    "Stage": "Group Stage",
+    "Group": "Group B",
+    "HomeTeam": "Qatar",
+    "AwayTeam": "Switzerland",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 6,
+    "Stage": "Group Stage",
+    "Group": "Group C",
+    "HomeTeam": "Brazil",
+    "AwayTeam": "Morocco",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 7,
+    "Stage": "Group Stage",
+    "Group": "Group C",
+    "HomeTeam": "Haiti",
+    "AwayTeam": "Scotland",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 8,
+    "Stage": "Group Stage",
+    "Group": "Group D",
+    "HomeTeam": "Australia",
+    "AwayTeam": "Turkiye",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 9,
+    "Stage": "Group Stage",
+    "Group": "Group E",
+    "HomeTeam": "Germany",
+    "AwayTeam": "Curacao",
+    "HomeScore": 7,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 10,
+    "Stage": "Group Stage",
+    "Group": "Group F",
+    "HomeTeam": "Netherlands",
+    "AwayTeam": "Japan",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 11,
+    "Stage": "Group Stage",
+    "Group": "Group E",
+    "HomeTeam": "Cote D\u0027Ivoire",
+    "AwayTeam": "Ecuador",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 12,
+    "Stage": "Group Stage",
+    "Group": "Group F",
+    "HomeTeam": "Sweden",
+    "AwayTeam": "Tunisia",
+    "HomeScore": 5,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 13,
+    "Stage": "Group Stage",
+    "Group": "Group H",
+    "HomeTeam": "Spain",
+    "AwayTeam": "Cabo Verde",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 14,
+    "Stage": "Group Stage",
+    "Group": "Group G",
+    "HomeTeam": "Belgium",
+    "AwayTeam": "Egypt",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 15,
+    "Stage": "Group Stage",
+    "Group": "Group H",
+    "HomeTeam": "Saudi Arabia",
+    "AwayTeam": "Uruguay",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 16,
+    "Stage": "Group Stage",
+    "Group": "Group G",
+    "HomeTeam": "Iran",
+    "AwayTeam": "New Zealand",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 17,
+    "Stage": "Group Stage",
+    "Group": "Group I",
+    "HomeTeam": "France",
+    "AwayTeam": "Senegal",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 18,
+    "Stage": "Group Stage",
+    "Group": "Group I",
+    "HomeTeam": "Iraq",
+    "AwayTeam": "Norway",
+    "HomeScore": 1,
+    "AwayScore": 4,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 19,
+    "Stage": "Group Stage",
+    "Group": "Group J",
+    "HomeTeam": "Argentina",
+    "AwayTeam": "Algeria",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 20,
+    "Stage": "Group Stage",
+    "Group": "Group J",
+    "HomeTeam": "Austria",
+    "AwayTeam": "Jordan",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 21,
+    "Stage": "Group Stage",
+    "Group": "Group K",
+    "HomeTeam": "Portugal",
+    "AwayTeam": "DR Congo",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 22,
+    "Stage": "Group Stage",
+    "Group": "Group L",
+    "HomeTeam": "England",
+    "AwayTeam": "Croatia",
+    "HomeScore": 4,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 23,
+    "Stage": "Group Stage",
+    "Group": "Group L",
+    "HomeTeam": "Ghana",
+    "AwayTeam": "Panama",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 24,
+    "Stage": "Group Stage",
+    "Group": "Group K",
+    "HomeTeam": "Uzbekiztan",
+    "AwayTeam": "Colombia",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 25,
+    "Stage": "Group Stage",
+    "Group": "Group A",
+    "HomeTeam": "Czechia",
+    "AwayTeam": "South Africa",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 26,
+    "Stage": "Group Stage",
+    "Group": "Group B",
+    "HomeTeam": "Switzerland",
+    "AwayTeam": "Boznia and Herzegovina",
+    "HomeScore": 4,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 27,
+    "Stage": "Group Stage",
+    "Group": "Group B",
+    "HomeTeam": "Canada",
+    "AwayTeam": "Qatar",
+    "HomeScore": 6,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 28,
+    "Stage": "Group Stage",
+    "Group": "Group A",
+    "HomeTeam": "Mexico",
+    "AwayTeam": "South Korea",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 29,
+    "Stage": "Group Stage",
+    "Group": "Group D",
+    "HomeTeam": "USA",
+    "AwayTeam": "Australia",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 30,
+    "Stage": "Group Stage",
+    "Group": "Group C",
+    "HomeTeam": "Scotland",
+    "AwayTeam": "Morocco",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 31,
+    "Stage": "Group Stage",
+    "Group": "Group C",
+    "HomeTeam": "Brazil",
+    "AwayTeam": "Haiti",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 32,
+    "Stage": "Group Stage",
+    "Group": "Group D",
+    "HomeTeam": "Turkiye",
+    "AwayTeam": "Paraguay",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 33,
+    "Stage": "Group Stage",
+    "Group": "Group F",
+    "HomeTeam": "Netherlands",
+    "AwayTeam": "Sweden",
+    "HomeScore": 5,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 34,
+    "Stage": "Group Stage",
+    "Group": "Group E",
+    "HomeTeam": "Germany",
+    "AwayTeam": "Cote DIvoire",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 35,
+    "Stage": "Group Stage",
+    "Group": "Group E",
+    "HomeTeam": "Ecuador",
+    "AwayTeam": "Curacao",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 36,
+    "Stage": "Group Stage",
+    "Group": "Group F",
+    "HomeTeam": "Tunisia",
+    "AwayTeam": "Japan",
+    "HomeScore": 0,
+    "AwayScore": 4,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 37,
+    "Stage": "Group Stage",
+    "Group": "Group H",
+    "HomeTeam": "Spain",
+    "AwayTeam": "Saudi Arabia",
+    "HomeScore": 4,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 38,
+    "Stage": "Group Stage",
+    "Group": "Group G",
+    "HomeTeam": "Belgium",
+    "AwayTeam": "Iran",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 39,
+    "Stage": "Group Stage",
+    "Group": "Group H",
+    "HomeTeam": "Uraguay",
+    "AwayTeam": "Cabo Verde",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 40,
+    "Stage": "Group Stage",
+    "Group": "Group G",
+    "HomeTeam": "New Zealand",
+    "AwayTeam": "Egypt",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 41,
+    "Stage": "Group Stage",
+    "Group": "Group J",
+    "HomeTeam": "Argentina",
+    "AwayTeam": "Austria",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 42,
+    "Stage": "Group Stage",
+    "Group": "Group I",
+    "HomeTeam": "France",
+    "AwayTeam": "Iraq",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 43,
+    "Stage": "Group Stage",
+    "Group": "Group I",
+    "HomeTeam": "Norway",
+    "AwayTeam": "Senegal",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 44,
+    "Stage": "Group Stage",
+    "Group": "Group J",
+    "HomeTeam": "Jordan",
+    "AwayTeam": "Algeria",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 45,
+    "Stage": "Group Stage",
+    "Group": "Group K",
+    "HomeTeam": "Portugal",
+    "AwayTeam": "Uzbekistan",
+    "HomeScore": 5,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 46,
+    "Stage": "Group Stage",
+    "Group": "Group L",
+    "HomeTeam": "England",
+    "AwayTeam": "Ghana",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 47,
+    "Stage": "Group Stage",
+    "Group": "Group L",
+    "HomeTeam": "Panama",
+    "AwayTeam": "Croatia",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 48,
+    "Stage": "Group Stage",
+    "Group": "Group K",
+    "HomeTeam": "Colombia",
+    "AwayTeam": "DR Congo",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 49,
+    "Stage": "Group Stage",
+    "Group": "Group B",
+    "HomeTeam": "Switzerland",
+    "AwayTeam": "Canada",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 50,
+    "Stage": "Group Stage",
+    "Group": "Group B",
+    "HomeTeam": "Bosnia and Herzegovina",
+    "AwayTeam": "Qatar",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 51,
+    "Stage": "Group Stage",
+    "Group": "Group C",
+    "HomeTeam": "Moroccco",
+    "AwayTeam": "Haiti",
+    "HomeScore": 4,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 52,
+    "Stage": "Group Stage",
+    "Group": "Group C",
+    "HomeTeam": "Scotland",
+    "AwayTeam": "Brazil",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 53,
+    "Stage": "Group Stage",
+    "Group": "Group A",
+    "HomeTeam": "South Africa",
+    "AwayTeam": "South Korea",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 54,
+    "Stage": "Group Stage",
+    "Group": "Group A",
+    "HomeTeam": "Czechia",
+    "AwayTeam": "Mexico",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 55,
+    "Stage": "Group Stage",
+    "Group": "Group E",
+    "HomeTeam": "Curacao",
+    "AwayTeam": "Cote DIvoire",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 56,
+    "Stage": "Group Stage",
+    "Group": "Group E",
+    "HomeTeam": "Ecuador",
+    "AwayTeam": "Germany",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 57,
+    "Stage": "Group Stage",
+    "Group": "Group F",
+    "HomeTeam": "Tunisia",
+    "AwayTeam": "Netherlands",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 58,
+    "Stage": "Group Stage",
+    "Group": "Group F",
+    "HomeTeam": "Japan",
+    "AwayTeam": "Sweden",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 59,
+    "Stage": "Group Stage",
+    "Group": "Group D",
+    "HomeTeam": "Turkey",
+    "AwayTeam": "USA",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 60,
+    "Stage": "Group Stage",
+    "Group": "Group D",
+    "HomeTeam": "Paraguay",
+    "AwayTeam": "Australia",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 61,
+    "Stage": "Group Stage",
+    "Group": "Group I",
+    "HomeTeam": "Norway",
+    "AwayTeam": "France",
+    "HomeScore": 1,
+    "AwayScore": 4,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 62,
+    "Stage": "Group Stage",
+    "Group": "Group I",
+    "HomeTeam": "Senegal",
+    "AwayTeam": "Iraq",
+    "HomeScore": 5,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 63,
+    "Stage": "Group Stage",
+    "Group": "Group H",
+    "HomeTeam": "Cabo Verde",
+    "AwayTeam": "Saudi Arabia",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 64,
+    "Stage": "Group Stage",
+    "Group": "Group H",
+    "HomeTeam": "Uraguay",
+    "AwayTeam": "Spain",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 65,
+    "Stage": "Group Stage",
+    "Group": "Group G",
+    "HomeTeam": "New Zealand",
+    "AwayTeam": "Belgium",
+    "HomeScore": 1,
+    "AwayScore": 5,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 66,
+    "Stage": "Group Stage",
+    "Group": "Group G",
+    "HomeTeam": "Egypt",
+    "AwayTeam": "Iran",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 67,
+    "Stage": "Group Stage",
+    "Group": "Group L",
+    "HomeTeam": "Panama",
+    "AwayTeam": "England",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 68,
+    "Stage": "Group Stage",
+    "Group": "Group L",
+    "HomeTeam": "Croatia",
+    "AwayTeam": "Ghana",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 69,
+    "Stage": "Group Stage",
+    "Group": "Group K",
+    "HomeTeam": "Colombia",
+    "AwayTeam": "Portugal",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 70,
+    "Stage": "Group Stage",
+    "Group": "Group K",
+    "HomeTeam": "DR Congo",
+    "AwayTeam": "Uzbekistan",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 71,
+    "Stage": "Group Stage",
+    "Group": "Group J",
+    "HomeTeam": "Algeria",
+    "AwayTeam": "Austria",
+    "HomeScore": 3,
+    "AwayScore": 3,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 72,
+    "Stage": "Group Stage",
+    "Group": "Group J",
+    "HomeTeam": "Jordan",
+    "AwayTeam": "Argentina",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 73,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "South Africa",
+    "AwayTeam": "Canada",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 74,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "Brazil",
+    "AwayTeam": "Japan",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 75,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "Germany",
+    "AwayTeam": "Paraguay",
+    "HomeScore": 3,
+    "AwayScore": 4,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 76,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "Netherlands",
+    "AwayTeam": "Morocco",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 77,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "Cote D\u0027Ivoire",
+    "AwayTeam": "Norway",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 78,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "France",
+    "AwayTeam": "Sweden",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 79,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "Mexico",
+    "AwayTeam": "Ecuador",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 80,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "England",
+    "AwayTeam": "DR Congo",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 81,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "Belgium",
+    "AwayTeam": "Senegal",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 82,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "USA",
+    "AwayTeam": "Bosnia and Herzegovina",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 83,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "Spain",
+    "AwayTeam": "Austria",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 84,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "Portugal",
+    "AwayTeam": "Croatia",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 85,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "Switzerland",
+    "AwayTeam": "Algeria",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 86,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "Australia",
+    "AwayTeam": "Egypt",
+    "HomeScore": 2,
+    "AwayScore": 4,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 87,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "Argentina",
+    "AwayTeam": "Cabo Verde",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 88,
+    "Stage": "Round of 32",
+    "Group": "",
+    "HomeTeam": "Colombia",
+    "AwayTeam": "Ghana",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 89,
+    "Stage": "Round of 16",
+    "Group": "",
+    "HomeTeam": "Canada",
+    "AwayTeam": "Morocco",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 90,
+    "Stage": "Round of 16",
+    "Group": "",
+    "HomeTeam": "Paraguay",
+    "AwayTeam": "France",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 91,
+    "Stage": "Round of 16",
+    "Group": "",
+    "HomeTeam": "Brazil",
+    "AwayTeam": "Norway",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 92,
+    "Stage": "Round of 16",
+    "Group": "",
+    "HomeTeam": "Mexico",
+    "AwayTeam": "England",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 93,
+    "Stage": "Round of 16",
+    "Group": "",
+    "HomeTeam": "Portugal",
+    "AwayTeam": "Spain",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 94,
+    "Stage": "Round of 16",
+    "Group": "",
+    "HomeTeam": "USA",
+    "AwayTeam": "Belgium",
+    "HomeScore": 1,
+    "AwayScore": 4,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 95,
+    "Stage": "Round of 16",
+    "Group": "",
+    "HomeTeam": "Argentina",
+    "AwayTeam": "Egypt",
+    "HomeScore": 3,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 96,
+    "Stage": "Round of 16",
+    "Group": "",
+    "HomeTeam": "Switzerland",
+    "AwayTeam": "Colombia",
+    "HomeScore": 4,
+    "AwayScore": 3,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 97,
+    "Stage": "Quarterfinal",
+    "Group": "",
+    "HomeTeam": "France",
+    "AwayTeam": "Morocco",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 98,
+    "Stage": "Quarterfinal",
+    "Group": "",
+    "HomeTeam": "Spain",
+    "AwayTeam": "Belgium",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 99,
+    "Stage": "Quarterfinal",
+    "Group": "",
+    "HomeTeam": "Norway",
+    "AwayTeam": "England",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 100,
+    "Stage": "Quarterfinal",
+    "Group": "",
+    "HomeTeam": "Argentina",
+    "AwayTeam": "Switzerland",
+    "HomeScore": 3,
+    "AwayScore": 1,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 101,
+    "Stage": "Semifinal",
+    "Group": "",
+    "HomeTeam": "France",
+    "AwayTeam": "Spain",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 102,
+    "Stage": "Semifinal",
+    "Group": "",
+    "HomeTeam": "England",
+    "AwayTeam": "Argentina",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "KnockoutWinner": ""
+  },
+  {
+    "Id": 103,
+    "Stage": "Final",
+    "Group": "",
+    "HomeTeam": "Spain",
+    "AwayTeam": "Argentina",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "KnockoutWinner": ""
+  }
+]
